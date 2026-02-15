@@ -12,7 +12,8 @@ SIEM
 <p> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" /> </p>
 
 Certifications
-<<a href="https://www.credly.com/badges/65dafe55-57ba-4a41-93d0-032ef8ac53e2/public_url" target="_blank" rel="noopener noreferrer">
+
+<a href="https://www.credly.com/badges/65dafe55-57ba-4a41-93d0-032ef8ac53e2/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Certificate" />
 </a>
 <a href="https://www.hackthebox.com/certificates" target="_blank" rel="noopener noreferrer">
