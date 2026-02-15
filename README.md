@@ -19,4 +19,6 @@ Certifications
 <a href="https://www.hackthebox.com/certificates" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-HTB%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CDSA Certification" />
 </a>
+
+
 HTB credential name and id: Ethan Kahlon HTBCERT-DD24C6DCE6 
