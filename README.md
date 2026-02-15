@@ -19,4 +19,4 @@ Certifications
   </a>
 </p>
 
-[![HTB CDSA Badge](https://img.shields.io/badge/HTB%20CDSA-Credly-success?logo=hackthebox&style=for-the-badge)](https://www.credly.com/badges/e05ca4eb-8b0c-4a0c-9150-7b054774ef36/linked_in?t=t5mav1)
+[![HTB CDSA](https://img.shields.io/badge/HTB%20CDSA-blue?logo=hackthebox&style=for-the-badge)](https://www.credly.com/badges/e05ca4eb-8b0c-4a0c-9150-7b054774ef36/linked_in?t=t5mav1)
