@@ -13,12 +13,20 @@ SIEM
 
 Certifications
 
-<a href="https://www.credly.com/badges/65dafe55-57ba-4a41-93d0-032ef8ac53e2/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Certificate" />
-</a>
-<a href="https://www.hackthebox.com/certificates" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-HTB%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CDSA Certification" />
-</a>
+<p>
+  <a href="https://www.credly.com/badges/65dafe55-57ba-4a41-93d0-032ef8ac53e2/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Certificate" />
+  </a>
+</p>
 
+<p>
+  <a href="https://www.hackthebox.com/certificates" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-HTB%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CDSA Certification" />
+  </a>
+</p>
 
-HTB credential name and id: Ethan Kahlon HTBCERT-DD24C6DCE6 
+<p>
+  <strong>HTB CDSA Verification:</strong><br>
+  Name: Ethan Kahlon<br>
+  Certificate ID: HTBCERT-DD24C6DCE6
+</p>
