@@ -9,7 +9,7 @@ I'll be updating this later when I have everything more sorted out.
 Tools
 
 Networking
-<p> <img src="https://img.shields.io/badge/-Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> </p>
 
 SIEM
 <p> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" /> </p>
