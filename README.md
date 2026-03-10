@@ -1,10 +1,8 @@
 ## Hey, I'm Elaina
 
-I'm a self taught and self studying Cyber Security enthusiast (for lack of better words).
+I'm a self taught and self studying Cyber Security enthusiast.
 
-Currently improving SOC skills and learning as much as I can
-
-I'll be updating this later when I have everything more sorted out. 
+Currently improving SOC skills and learning as much as I can. 
 
 Tools
 
